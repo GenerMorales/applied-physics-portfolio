@@ -1,8 +1,9 @@
 ---
+layout: post
 title: "My Applied Physics Journey"
 date: 2026-10-19
+permalink: /2026/10/19/my-applied-physics-journey.html
 ---
-
 # My Applied Physics Journey
 
 I am currently pursuing a Bachelor of Science in Applied Physics at the University of Connecticut, with an expected graduation date of Spring 2027.
