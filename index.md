@@ -33,3 +33,9 @@ I'm interested in opportunities in engineering, testing, research, and technolog
 ## Contact
 
 You can explore my work and future projects through my GitHub profile: [GenerMorales](https://github.com/GenerMorales).
+
+## Blog Posts
+
+Read about my studies and technical interests:
+
+- [My Applied Physics Journey]({{ '/2026/10/19/my-applied-physics-journey.html' | relative_url }})
