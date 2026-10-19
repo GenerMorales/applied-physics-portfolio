@@ -1,37 +1,33 @@
+# Applied Physics Portfolio
 
-<div align="center">
+Welcome to my personal portfolio! I am an Applied Physics student at the University of Connecticut, expecting to graduate in Spring 2027.
 
-# 🎉 Congratulations GenerMorales! 🎉
+## About This Portfolio
 
-<img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
+This website highlights my academic background, technical interests, and projects as I prepare for a career in engineering and technology.
 
-### 🌟 You've successfully completed the exercise! 🌟
+## Education
 
-## 🚀 Share Your Success!
+**University of Connecticut (UConn)**  
+Bachelor of Science in Applied Physics  
+Expected Graduation: Spring 2027
 
-**Show off your new skills and inspire others!**
+## Areas of Interest
 
-<a href="https://twitter.com/intent/tweet?text=I%20just%20completed%20the%20%22GitHub%20Pages%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2FGenerMorales%2Fapplied-physics-portfolio%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn%0A" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Share%20on%20X-1da1f2?style=for-the-badge&logo=x&logoColor=white" alt="Share on X" />
-</a>
-<a href="https://bsky.app/intent/compose?text=I%20just%20completed%20the%20%22GitHub%20Pages%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2FGenerMorales%2Fapplied-physics-portfolio%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn%0A" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Share%20on%20Bluesky-0085ff?style=for-the-badge&logo=bluesky&logoColor=white" alt="Share on Bluesky" />
-</a>
-<a href="https://www.linkedin.com/feed/?shareActive=true&text=I%20just%20completed%20the%20%22GitHub%20Pages%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2FGenerMorales%2Fapplied-physics-portfolio%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn%0A" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Share%20on%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Share on LinkedIn" />
-</a>
+- Electronics and electrical systems
+- Computational physics and programming
+- Experimental physics and laboratory testing
+- Aerospace technology
+- Engineering design and problem-solving
 
-### 🎯 What's Next?
-**Keep the momentum going!**
+## Portfolio Content
 
-[![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/GenerMorales/applied-physics-portfolio/issues/1)
-[![GitHub Skills](https://img.shields.io/badge/Explore%20GitHub%20Skills-000000?style=for-the-badge&logo=github&logoColor=white)](https://skills.github.com)
+My website includes an introduction to my academic background and posts discussing my studies and interests in engineering applications of physics.
 
-*There's no better way to learn than building things!* 🚀
+## Website
 
-</div>
+[View My Applied Physics Portfolio](https://genermorales.github.io/applied-physics-portfolio/)
 
----
+## GitHub
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
+[GenerMorales](https://github.com/GenerMorales)
