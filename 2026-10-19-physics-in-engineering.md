@@ -1,6 +1,8 @@
 ---
+layout: post
 title: "Applying Physics to Engineering and Technology"
 date: 2026-10-19
+permalink: /2026/10/19/physics-in-engineering.html
 ---
 
 # Applying Physics to Engineering and Technology
